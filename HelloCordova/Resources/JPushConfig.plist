@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Appkey</key>
+	<string>d8cbe6a8856d1a7de95c228f</string>
+	<key>Channel</key>
+	<string>channel name</string>
+	<key>IsProduction</key>
+	<true/>
+	<key>IsIDFA</key>
+	<false/>
+	<key>Delay</key>
+	<false/>
+</dict>
+</plist>
